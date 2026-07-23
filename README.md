@@ -70,17 +70,17 @@ The goal of this project is to estimate the price of residential properties in B
 
 ![Output](images/output.png)
 
-## Prediction
+## Dataset
 
-![Model](images/model.png)
+![dataset](images/dataset.png)
 
 ## Model Accuracy
 
-![Accuracy](images/accuracy.png)
+![Model](images/Model.png)
 
-## Data Visualization
+## System Architecture
 
-![Graph](images/graph.png)
+![System Architecture](images/system_architecture.png)
 
 ---
 
