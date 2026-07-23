@@ -1,4 +1,27 @@
-## Hi there 👋
+## Hi 👋 I'm Vashika Gupta
+
+Data Analyst | SQL | Power BI | Excel | Python
+
+• 3+ years of IT experience
+• M.Tech in Data Science
+• Passionate about Data Analytics
+• Currently looking for Data Analyst opportunities
+
+Skills
+
+SQL
+Power BI
+Excel
+Python
+ETL
+Git
+GitHub
+
+Reach me
+
+LinkedIn
+Email
+Portfolio
 
 <!--
 **vashikagupta31-star/vashikagupta31-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
