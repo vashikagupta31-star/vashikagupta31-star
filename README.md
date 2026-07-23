@@ -82,6 +82,11 @@ The goal of this project is to estimate the price of residential properties in B
 
 ![System Architecture](images/system_architecture.png)
 
+## Data Visualization
+
+![Graph](images/graph.png)
+
+
 ---
 
 # 🚀 Future Improvements
