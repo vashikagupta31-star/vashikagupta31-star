@@ -1,22 +1,103 @@
-## Hi 👋 I'm Vashika Gupta
+## # 🏡 Real Estate Price Prediction
 
-Data Analyst | SQL | Power BI | Excel | Python
+A Machine Learning project that predicts house prices in Bengaluru based on various property features. This project involves data preprocessing, feature engineering, model training, and a simple Flask web application for predicting house prices.
 
-• 3+ years of IT experience
-• M.Tech in Data Science
-• Passionate about Data Analytics
-• Currently looking for Data Analyst opportunities
+---
 
-Skills
+# 📌 Project Overview
 
-SQL
-Power BI
-Excel
-Python
-ETL
-Git
-GitHub
+The goal of this project is to estimate the price of residential properties in Bengaluru using historical housing data. The project demonstrates the complete machine learning workflow, from data cleaning to deployment.
 
+---
+
+# 📊 Dataset
+
+- **Dataset:** Bengaluru House Price Dataset
+- **Records:** (Write the number of rows if you know it)
+- **Source:** Kaggle
+
+---
+
+# ✨ Features
+
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Outlier Removal
+- Linear Regression Model
+- House Price Prediction
+- Flask Web Application
+
+---
+
+# 🛠 Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Flask
+- HTML
+- CSS
+- JavaScript
+
+---
+
+# 🔄 Project Workflow
+
+1. Data Collection
+2. Data Cleaning
+3. Exploratory Data Analysis
+4. Feature Engineering
+5. Model Training
+6. Model Evaluation
+7. Deployment using Flask
+
+---
+
+# 📈 Results
+
+- Successfully trained a machine learning model for house price prediction.
+- Built a user-friendly web interface using Flask.
+- Generated predictions based on user inputs.
+
+---
+
+# 📷 Screenshots
+
+## Home Page
+
+![Output](images/output.png)
+
+## Prediction
+
+![Model](images/model.png)
+
+## Model Accuracy
+
+![Accuracy](images/accuracy.png)
+
+## Data Visualization
+
+![Graph](images/graph.png)
+
+---
+
+# 🚀 Future Improvements
+
+- Improve prediction accuracy using advanced models.
+- Deploy the application online.
+- Add interactive visualizations.
+- Support more cities and datasets.
+
+---
+
+# 👩‍💻 Author
+
+**Vashika Gupta**
+
+Data Analyst | SQL | Power BI | Python
 Reach me
 
 LinkedIn: https://www.linkedin.com/in/vashikagupta/
